@@ -1,4 +1,4 @@
-# NumerosRomanos
+# Numero Romano -> Arábigo
 Programa que convierte números romanos a números arábigos.
 
 
